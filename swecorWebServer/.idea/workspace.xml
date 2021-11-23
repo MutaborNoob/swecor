@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b73dc11-940f-41da-adc4-ff887be00149" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="218yIedcdJpVhdNCrGkrsmhCVhq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHubProd\swecorWebServer\src\main\resources" />
+      <recent name="D:\GitHubProd\swecorWebServer\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApplication">
+    <configuration name="DeleteMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testProd.swecorWebServer.DeleteMe" />
+      <module name="swecorWebServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testProd.swecorWebServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testProd.swecorWebServer.MainApplication" />
+      <module name="swecorWebServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testProd.swecorWebServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplication" />
+        <item itemvalue="Application.DeleteMe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b73dc11-940f-41da-adc4-ff887be00149" name="Default Changelist" comment="" />
+      <created>1637336930530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637336930530</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1409" y="407" key="#com.intellij.ide.util.MemberChooser" timestamp="1637626819980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1409" y="407" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1637626819980" />
+    <state width="1877" height="304" key="GridCell.Tab.0.bottom" timestamp="1637627885302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1637627885302" />
+    <state width="1877" height="304" key="GridCell.Tab.0.center" timestamp="1637627885302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="304" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1637627885302" />
+    <state width="1877" height="304" key="GridCell.Tab.0.left" timestamp="1637627885301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="304" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1637627885301" />
+    <state width="1877" height="304" key="GridCell.Tab.0.right" timestamp="1637627885302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="304" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1637627885302" />
+    <state width="982" height="348" key="GridCell.Tab.1.bottom" timestamp="1637626372973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="982" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1637626372973" />
+    <state width="982" height="348" key="GridCell.Tab.1.center" timestamp="1637626372973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="982" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1637626372973" />
+    <state width="982" height="348" key="GridCell.Tab.1.left" timestamp="1637626372973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="982" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1637626372973" />
+    <state width="982" height="348" key="GridCell.Tab.1.right" timestamp="1637626372973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="982" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1637626372973" />
+  </component>
+</project>
